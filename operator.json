@@ -3,6 +3,6 @@
   "description": "Returns the difference of two values",
   "tags": ["basic operations", "pamgene"],
   "authors": ["tercen"],
-  "urls": ["https://github.com/tercen/minus_operator"],
+  "urls": ["https://github.com/pamgene/minus_operator"],
   "properties": []
 }
